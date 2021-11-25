@@ -1,1 +1,1 @@
-# account-manager-api-spec-repo
+# account-system-api-spec-repo
